@@ -1,9 +1,8 @@
-#Verification Bot
-
+**Verification Bot Source Code**
 
 **Verification Bot is reated by Neo Development**
 
-**Verification Bot source code by Neo Development**
+**Verification Bot source coded by Neo Development**
 
 
 **Easy to use**
