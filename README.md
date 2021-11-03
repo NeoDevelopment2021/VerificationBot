@@ -10,7 +10,8 @@
 
 **Don't Change anything if may cause crash**
 
-**Just Check `examples` folder to know how to change**
+
+**Just add Your Server Verify Role or any role your choice `id` in `config.json` Must Enter Token and role id**
 
 
 - 🔗 [Main Bot](https://discord.com/api/oauth2/authorize?client_id=902956836133699614&permissions=8&scope=bot%20applications.commands)
